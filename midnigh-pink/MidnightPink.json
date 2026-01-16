@@ -19,7 +19,7 @@
             "#000000"
         ],
         "BACKGROUND_FLOATING": [
-            "#35222d"
+            "#000000"
         ],
         "BACKGROUND_MENTIONED": [
             "#cf447a33"
@@ -40,10 +40,10 @@
             "transparent"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#35222d"
+            "#000000"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#3d2835"
+            "#000000"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
             "#d46a9e"
@@ -55,7 +55,7 @@
             "hsla(333, 40%, 25%, 0.1)"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#35222d"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
@@ -85,19 +85,19 @@
             "#000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#121212"
+            "#000000"
         ],
         "BG_BASE_PRIMARY": [
             "#000000"
         ],
         "BG_BACKDROP": [
-            "#000000b2"
+            "#000000"
         ],
         "BG_BASE_SECONDARY": [
             "#000000"
         ],
         "BG_BASE_TERTIARY": [
-            "#121212"
+            "#000000"
         ],
         "HOME_BACKGROUND": [
             "#000000"
@@ -112,16 +112,16 @@
             "hsla(333, 30%, 25%, 0.2)"
         ],
         "CARD_SECONDARY_BG": [
-            "#3d2835"
+            "#000000"
         ],
         "CARD_PRIMARY_BG": [
-            "#35222d"
+            "#000000"
         ],
         "CHANNEL_ICON": [
             "#e6c3d6"
         ],
         "EMBED_BACKGROUND": [
-            "#3d2835"
+            "#000000"
         ],
         "HEADER_PRIMARY": [
             "#ffa6cb"
@@ -148,10 +148,10 @@
             "#ff4d94"
         ],
         "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-            "#3d2835"
+            "#000000"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#3d2835"
+            "#000000"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
             "hsla(333, 30%, 25%, 0.2)"
@@ -166,10 +166,10 @@
             "#ffa6cb"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#35222d"
+            "#000000"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#3d2835"
+            "#000000"
         ],
         "STATUS_DANGER": [
             "#d44d76"
@@ -184,7 +184,7 @@
             "#3d2835"
         ],
         "POLLS_NORMAL_IMAGE_BACKGROUND": [
-            "#3d2835"
+            "#000000"
         ],
         "POLLS_VICTOR_FILL": [
             "#b83a6b80"
@@ -208,7 +208,7 @@
             "hsla(333, 30%, 25%, 0.1)"
         ],
         "KEYBOARD": [
-            "#35222d"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_ACCEPT": [
             "#b83a6b33"
