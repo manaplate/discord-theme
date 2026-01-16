@@ -16,16 +16,16 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#000000"
+            "#b83a6b"
         ],
         "BACKGROUND_FLOATING": [
-            "#000000"
+            "#35222d"
         ],
         "BACKGROUND_MENTIONED": [
-            "#cf447a33"
+            "#b83a6b33"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#cf447a4d"
+            "#b83a6b4d"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#d46a9e"
@@ -40,10 +40,10 @@
             "transparent"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#000000"
+            "#35222d"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#000000"
+            "#3d2835"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
             "#d46a9e"
@@ -55,7 +55,7 @@
             "hsla(333, 40%, 25%, 0.1)"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#000000"
+            "#35222d"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
@@ -91,7 +91,7 @@
             "#000000"
         ],
         "BG_BACKDROP": [
-            "#000000"
+            "#000000b2"
         ],
         "BG_BASE_SECONDARY": [
             "#000000"
@@ -112,16 +112,16 @@
             "hsla(333, 30%, 25%, 0.2)"
         ],
         "CARD_SECONDARY_BG": [
-            "#000000"
+            "#3d2835"
         ],
         "CARD_PRIMARY_BG": [
-            "#000000"
+            "#35222d"
         ],
         "CHANNEL_ICON": [
             "#e6c3d6"
         ],
         "EMBED_BACKGROUND": [
-            "#000000"
+            "#3d2835"
         ],
         "HEADER_PRIMARY": [
             "#ffa6cb"
@@ -148,10 +148,10 @@
             "#ff4d94"
         ],
         "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-            "#000000"
+            "#3d2835"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#000000"
+            "#3d2835"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
             "hsla(333, 30%, 25%, 0.2)"
@@ -166,10 +166,10 @@
             "#ffa6cb"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#000000"
+            "#35222d"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#000000"
+            "#3d2835"
         ],
         "STATUS_DANGER": [
             "#d44d76"
@@ -184,7 +184,7 @@
             "#3d2835"
         ],
         "POLLS_NORMAL_IMAGE_BACKGROUND": [
-            "#000000"
+            "#3d2835"
         ],
         "POLLS_VICTOR_FILL": [
             "#b83a6b80"
@@ -208,7 +208,7 @@
             "hsla(333, 30%, 25%, 0.1)"
         ],
         "KEYBOARD": [
-            "#000000"
+            "#35222d"
         ],
         "BACKGROUND_MODIFIER_ACCEPT": [
             "#b83a6b33"
@@ -263,30 +263,30 @@
         "PLUM_13": "#e6c3d6",
         "PLUM_15": "#ffa6cb",
         "PLUM_16": "#35222d",
-        "PLUM_17": "##000000",
+        "PLUM_17": "#2a1a25",
         "PLUM_18": "#35222d",
         "PLUM_19": "#35222d",
-        "PLUM_20": "##000000",
+        "PLUM_20": "#2a1a25",
         "PLUM_21": "#35222d",
         "PLUM_22": "#35222d",
-        "PLUM_24": "##000000",
-        "PLUM_25": "##000000",
+        "PLUM_24": "#2a1a25",
+        "PLUM_25": "#2a1a25",
         "PLUM_3": "#ffa6cb",
         "PLUM_4": "#ffa6cb",
         "PLUM_6": "#ffa6cb",
         "PLUM_9": "#e6c3d6",
-        "PRIMARY_100": "##000000",
-        "PRIMARY_200": "##000000",
-        "PRIMARY_300": "##000000",
-        "PRIMARY_330": "##000000",
-        "PRIMARY_360": "##000000",
-        "PRIMARY_400": "##000000",
-        "PRIMARY_460": "#121212",
-        "PRIMARY_500": "##000000",
-        "PRIMARY_530": "##000000",
-        "PRIMARY_600": "##000000",
+        "PRIMARY_100": "#ffa6cb",
+        "PRIMARY_200": "#ffa6cb",
+        "PRIMARY_300": "#ffa6cb",
+        "PRIMARY_330": "#ffa6cb",
+        "PRIMARY_360": "#ffa6cb",
+        "PRIMARY_400": "#ffa6cb",
+        "PRIMARY_460": "#3d2835",
+        "PRIMARY_500": "#ffa6cb",
+        "PRIMARY_530": "#ffa6cb",
+        "PRIMARY_600": "#2a1a25",
         "PRIMARY_630": "#35222d",
-        "PRIMARY_645": "##000000",
+        "PRIMARY_645": "#2a1a25",
         "PRIMARY_660": "#35222d",
         "PRIMARY_700": "#35222d",
         "PRIMARY_730": "#e6c3d6",
