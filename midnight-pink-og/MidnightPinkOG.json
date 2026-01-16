@@ -1,0 +1,226 @@
+{
+    "name": "Midnight Pink OG",
+    "description": "The theme used in my laptop. Code is based on the Dark Blossom theme by kmmiio99o",
+    "version": "1",
+    "authors": [
+        {
+            "name": "manaplate",
+            "id": "152289312"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_BASE_LOW": [
+            "#000"
+        ],
+        "BACKGROUND_BASE_LOWER": [
+            "#000"
+        ],
+        "BACKGROUND_BASE_LOWEST": [
+            "#000"
+        ],
+        "BACKGROUND_CODE": [
+            "#1f1f1f"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#202020"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#ffbaff75"
+        ],
+        "ACTIVITY_CARD_BACKGROUND": [
+            "#161616"
+        ],
+        "CHAT_BACKGROUND_DEFAULT": [
+            "#181818"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#777777"
+        ],
+        "MODAL_BACKGROUND": [
+            "#212121"
+        ],
+        "MODAL_FOOTER_BACKGROUND": [
+            "#141414"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "rgba(0, 0, 0, 0.15)"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "rgba(0, 0, 0, 0.2)"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "rgba(0, 0, 0, 0.3)"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "rgba(255, 129, 232, 0.101)"
+        ],
+        "BACKGROUND_MENTIONED_HOVER": [
+            "rgba(250, 126, 233, 0.115)"
+        ],
+        "BACKGROUND_MENTIONED_BORDER": [
+            "rgb(255, 150, 250)"
+        ],
+        "BACKGROUND_MENTIONED_TOOLBAR": [
+            "rgb(255, 146, 222)"
+        ],
+        "MENTION_BACKGROUND": [
+            "rgba(255, 186, 255, 0.279)"
+        ],
+        "MENTION_FOREGROUND": [
+            "rgba(255, 222, 131, 0.999)"
+        ],
+        "HEADER_PRIMARY": [
+            "#ffbaff"
+        ]
+    },
+    "rawColors": {
+        "BLUE_260": "#d46a9e",
+        "BLUE_300": "#d46a9e",
+        "BLUE_330": "#d46a9e",
+        "BLUE_345": "#d46a9e",
+        "BLUE_360": "#d46a9e",
+        "BLUE_400": "#d46a9e",
+        "BLUE_430": "#d46a9e",
+        "BLUE_460": "#d46a9e",
+        "BLUE_500": "#d46a9e",
+        "BLUE_530": "#d46a9e",
+        "BLUE_560": "#d46a9e",
+        "BLUE_600": "#d46a9e",
+        "BLUE_630": "#d46a9e",
+        "BLUE_660": "#d46a9e",
+        "BLUE_700": "#d46a9e",
+        "BLACK_500": "#000000b2",
+        "BRAND_200": "#ffa6cb",
+        "BRAND_260": "#ffa6cb",
+        "BRAND_300": "#ffa6cb",
+        "BRAND_330": "#ffa6cb",
+        "BRAND_345": "#ffa6cb",
+        "BRAND_360": "#ffa6cb",
+        "BRAND_400": "#ffa6cb",
+        "BRAND_430": "#ffa6cb",
+        "BRAND_460": "#ffa6cb",
+        "BRAND_500": "#ffa6cb",
+        "BRAND_530": "#ffa6cb",
+        "BRAND_560": "#ffa6cb",
+        "BRAND_600": "#ffa6cb",
+        "BRAND_630": "#ffa6cb",
+        "BRAND_660": "#ffa6cb",
+        "BRAND_700": "#ffa6cb",
+        "BRAND_730": "#ffa6cb",
+        "PLUM_1": "#ffa6cb",
+        "PLUM_10": "#e6c3d6",
+        "PLUM_11": "#e6c3d6",
+        "PLUM_13": "#e6c3d6",
+        "PLUM_15": "#ffa6cb",
+        "PLUM_16": "#35222d",
+        "PLUM_17": "#2a1a25",
+        "PLUM_18": "#35222d",
+        "PLUM_19": "#35222d",
+        "PLUM_20": "#2a1a25",
+        "PLUM_21": "#35222d",
+        "PLUM_22": "#35222d",
+        "PLUM_24": "#2a1a25",
+        "PLUM_25": "#2a1a25",
+        "PLUM_3": "#ffa6cb",
+        "PLUM_4": "#ffa6cb",
+        "PLUM_6": "#ffa6cb",
+        "PLUM_9": "#e6c3d6",
+        "PRIMARY_100": "#ffa6cb",
+        "PRIMARY_200": "#ffa6cb",
+        "PRIMARY_300": "#ffa6cb",
+        "PRIMARY_330": "#ffa6cb",
+        "PRIMARY_360": "#ffa6cb",
+        "PRIMARY_400": "#ffa6cb",
+        "PRIMARY_460": "#3d2835",
+        "PRIMARY_500": "#ffa6cb",
+        "PRIMARY_530": "#ffa6cb",
+        "PRIMARY_600": "#2a1a25",
+        "PRIMARY_630": "#35222d",
+        "PRIMARY_645": "#2a1a25",
+        "PRIMARY_660": "#35222d",
+        "PRIMARY_700": "#35222d",
+        "PRIMARY_730": "#e6c3d6",
+        "PRIMARY_800": "#35222d",
+        "GREEN_260": "#b83a6b",
+        "GREEN_300": "#b83a6b",
+        "GREEN_330": "#b83a6b",
+        "GREEN_345": "#b83a6b",
+        "GREEN_360": "#b83a6b",
+        "GREEN_400": "#b83a6b",
+        "GREEN_430": "#b83a6b",
+        "GREEN_460": "#b83a6b",
+        "GREEN_500": "#b83a6b",
+        "GREEN_530": "#b83a6b",
+        "GREEN_560": "#b83a6b",
+        "GREEN_600": "#b83a6b",
+        "GREEN_630": "#b83a6b",
+        "GREEN_660": "#b83a6b",
+        "GREEN_700": "#b83a6b",
+        "GUILD_BOOSTING_PINK": "#ffa6cb",
+        "GUILD_BOOSTING_PURPLE": "#ffa6cb",
+        "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#ffa6cb",
+        "RED_260": "#d44d76",
+        "RED_300": "#d44d76",
+        "RED_330": "#d44d76",
+        "RED_345": "#d44d76",
+        "RED_360": "#d44d76",
+        "RED_400": "#d44d76",
+        "RED_430": "#d44d76",
+        "RED_460": "#d44d76",
+        "RED_500": "#d44d76",
+        "RED_530": "#d44d76",
+        "RED_560": "#d44d76",
+        "RED_600": "#d44d76",
+        "RED_630": "#d44d76",
+        "RED_660": "#d44d76",
+        "RED_700": "#d44d76",
+        "ROLE_DEFAULT": "#e6c3d6",
+        "ORANGE_260": "#d46a9e",
+        "ORANGE_300": "#d46a9e",
+        "ORANGE_330": "#d46a9e",
+        "ORANGE_345": "#d46a9e",
+        "ORANGE_360": "#d46a9e",
+        "ORANGE_400": "#d46a9e",
+        "ORANGE_430": "#d46a9e",
+        "ORANGE_460": "#d46a9e",
+        "ORANGE_500": "#d46a9e",
+        "ORANGE_530": "#d46a9e",
+        "ORANGE_560": "#d46a9e",
+        "ORANGE_600": "#d46a9e",
+        "ORANGE_630": "#d46a9e",
+        "ORANGE_660": "#d46a9e",
+        "ORANGE_700": "#d46a9e",
+        "YELLOW_260": "#d46a9e",
+        "YELLOW_300": "#d46a9e",
+        "YELLOW_330": "#d46a9e",
+        "YELLOW_345": "#d46a9e",
+        "YELLOW_360": "#d46a9e",
+        "YELLOW_400": "#d46a9e",
+        "YELLOW_430": "#d46a9e",
+        "YELLOW_460": "#d46a9e",
+        "YELLOW_500": "#d46a9e",
+        "YELLOW_530": "#d46a9e",
+        "YELLOW_560": "#d46a9e",
+        "YELLOW_600": "#d46a9e",
+        "YELLOW_630": "#d46a9e",
+        "YELLOW_660": "#d46a9e",
+        "YELLOW_700": "#d46a9e",
+        "WHITE_500": "#ffa6cb",
+        "WHITE_630": "#e6c3d6"
+    },
+    "plus": {
+        "version": "0",
+        "iconPack": "",
+        "mentionLineColor": "#ffa6cb",
+        "customOverlays": true,
+        "icons": {
+            "trash": "#d44d76",
+            "TrashIcon": "#d44d76",
+            "TriangleExclamationPointIcon": "#d44d76",
+            "toast_copy_link": "#d46a9e",
+            "toast_copy_message": "#ffffff",
+            "toast_image_saved": "#ffffff"
+        }
+    },
+    "spec": 2
+}
